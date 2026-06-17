@@ -31,17 +31,6 @@ The same mismatch, it turns out, is playing out one level down, in the chip indu
 
 That window closes around the same two years, 2026 to 2028, as the cancer-treatment window above. Which is a genuinely interesting coincidence. It is not, on its own, evidence of anything more than that.
 
-## The pretty number
-
-I want to be honest about a temptation I ran into while pulling this together, because resisting it is more or less the point of this essay.
-
-There's a version of this story that's far more exciting than "two unrelated industries happen to have similarly timed adoption problems." It goes like this: the chromatin threshold that determines whether a tumor can still rewire itself, the share of a chip market that has to commit before switching becomes irrational, the point at which a virus exhausts its cheap mutations and has to start making expensive ones, the threshold past which a melting ice sheet can't recover, even the moment a neural network's internal structure suddenly reorganizes mid-training — all of them, in this telling, tip over at roughly the same normalized value, somewhere near 0.618: the golden ratio's lesser-known cousin, the number you get from phi minus one. One constant, five domains, a single hidden law of nature finally made visible.
-
-I'll admit that the version of me reading this for the first time felt the specific thrill that comes from being shown a secret structure underneath the world. That thrill is worth naming honestly, because it's exactly what makes an appealing theory feel like a true one. A single elegant number governing chip ecosystems and chromatin and glaciers and viruses is the kind of idea you want to be real, in roughly the same way you want the diet book to be right that one nutrient secretly explains everything, or the market newsletter to be right that one indicator predicts every crash. The wanting is not evidence.
-
-And when you actually pull on the thread, it frays fast. A spectral gap in a chromatin map, a percentage of installed computer chips, a codon usage statistic, a feedback coefficient in an ice-sheet model, and an eigenvalue from a training-dynamics matrix are not five measurements of one underlying thing. They are five different quantities, defined differently, measured differently, governed by physics that don't talk to each other — quantum mechanics in one case, market psychology in another, fluid dynamics in a third. Noticing that several of them land in a similar range once you normalize them to sit between zero and one isn't a discovery. It's closer to what happens any time you take five numbers and stop looking the moment a couple of them rhyme. The number is genuinely pretty. On the evidence offered, it isn't doing any actual explanatory work.
-
-So I went looking for the unglamorous explanation instead. It turned out to be much better than the glamorous one.
 
 ## The boring, excellent explanation
 
