@@ -64,8 +64,6 @@ You re-time the cash flow instead of re-arguing the decision: lease the hardware
 
 None of that requires a unifying law of the universe. It requires recognizing that the holdup was never about visibility — the numbers were sitting in the proposal the whole time, in plain ink, for anyone willing to read them. It was about who has to be the first person to act on a number everyone else can also see perfectly well, and what it costs that person, personally, if they turn out to be wrong before anyone else does.
 
-That hospital proposal from the opening isn't waiting on a sharper instrument to reveal some hidden pattern. It's waiting on someone to make going first not feel like the most expensive thing in the room. That's a financing problem, a coordination problem, and a management problem — and all three have been solved before, by people with tools considerably more reliable than a number that simply happens to rhyme.
-
 ---
 
 ERI Labs Field Notes · Jersey City, NJ · June 17, 2026
